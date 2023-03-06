@@ -1,0 +1,5 @@
+site_name: mintkat
+
+nav:
+  - Home: "index.md"
+  - Projects: "projects.md"
