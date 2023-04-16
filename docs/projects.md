@@ -1,10 +1,10 @@
 # Projects
 
-## Toonbox
+## Sunaba
 
 a 3D sandbox game with user-generated map support. Developed in Godot 4, and written in C# and GDScript
 
-[Source Code](https://github.com/m1ntkat/Toonbox)
+[Source Code](https://github.com/m1ntkat/sunaba)
 
 ## Godot 4 Calculator
 
