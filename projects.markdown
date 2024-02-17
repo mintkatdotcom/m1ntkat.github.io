@@ -11,7 +11,7 @@ permalink: /projects/
 a 3D sandbox game with user-generated map support. Developed in Godot 4, and written in C# and GDScript
 
 
-[Whistlist on Steam](https://sunaba.rocks)
+[Whistlist on Steam]([https://sunaba.rocks](https://store.steampowered.com/app/2657780/Sunaba/))
 
 ## Godot 4 Calculator
 
